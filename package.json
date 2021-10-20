@@ -1,0 +1,15 @@
+{
+  "name": "socketio-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io-client": "^2.3.0",
+    "yargs": "^17.2.1"
+  }
+}
